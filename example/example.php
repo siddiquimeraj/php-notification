@@ -16,7 +16,7 @@ use NFLib\Notification\Segment;
 $api_credentials = [
 	"user_id" 		=> "youremail@domain.com",
 	"password" 		=> "yourpassword",
-	"client_id" 			=> "Your CLIENT ID",
+	"client_id" 		=> "Your CLIENT ID",
 	"client_secret"		 => "Your CLIENT SECRET"
 ];
 /**
