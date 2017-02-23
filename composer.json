@@ -1,0 +1,20 @@
+{
+    "name": "notifyfox/php-notification",
+    "description": "Library for sending push notifications",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sarthak Sawhney",
+            "email": "sarthaksahni@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "NFLib": "src/"
+        }
+    }
+}
