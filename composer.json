@@ -6,7 +6,11 @@
         {
             "name": "Sarthak Sawhney",
             "email": "sarthaksahni@gmail.com"
-        }
+        },
+        {
+            "name": "Meraj Ahmad Siddiqui",
+	    "email": "meraj.siddiqui@rankwatch.com"
+	}
     ],
     "minimum-stability": "dev",
     "require": {
